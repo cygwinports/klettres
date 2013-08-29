@@ -1,4 +1,0 @@
-category: KDE Games
-requires: libgcc1 libkdecore5 libphonon4 libQtCore4 libQtGui4 libQtSvg4 libQtXml4 libstdc++6
-sdesc: "KDE alphabet learning game"
-ldesc: "KDE education suite"
